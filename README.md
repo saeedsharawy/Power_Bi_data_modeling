@@ -1,5 +1,6 @@
 
 # Power BI Data Modeling Project
+<img width="1600" height="628" alt="final_model" src="https://github.com/user-attachments/assets/47b1ece3-d437-4f94-8f8c-8e758378c5be" />
 
 ## Project Overview
 A hands-on Power BI project focused on transforming a complex dataset containing multiple interconnected tables into a structured data model. The project involves identifying fact and dimension tables, designing a Star Schema, establishing table relationships, creating a date table, developing DAX measures, and exploring Row-Level Security (RLS).
